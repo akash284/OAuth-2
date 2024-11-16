@@ -16,4 +16,4 @@ base_url/login/oauth2/code/google
 "http://localhost:5050/login/oauth2/code/google"
 ----
 # Homepage
-![login_page](https://github.com/user-attachments/assets/07b4a1c7-60f9-4206-b864-b59a3327058e)
+![login_page](https://github.com/akash284/OAuth-2/blob/main/Image/login_page.png?raw=true)
