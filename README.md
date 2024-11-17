@@ -7,7 +7,7 @@ Project Demo(Video) [click to view](https://drive.google.com/file/d/1K1rsvp6-y-M
 ---
 # How to generate OAuth2 clienid and client secret key google ?
 ---
-Googel clientid and secret key [click to view](https://www.youtube.com/watch?v=-vq32dsK_TI&t=97s).
+Google clientid and secret key [click to view](https://www.youtube.com/watch?v=-vq32dsK_TI&t=97s).
 ---
 Add this redirect-url while generating
 
